@@ -1,0 +1,29 @@
+C:\Users\liria\source\repos\Practica OPP polimorfismo\Practica OPP polimorfismo\bin\Debug\net8.0\Practica OPP polimorfismo.exe
+C:\Users\liria\source\repos\Practica OPP polimorfismo\Practica OPP polimorfismo\bin\Debug\net8.0\Practica OPP polimorfismo.deps.json
+C:\Users\liria\source\repos\Practica OPP polimorfismo\Practica OPP polimorfismo\bin\Debug\net8.0\Practica OPP polimorfismo.runtimeconfig.json
+C:\Users\liria\source\repos\Practica OPP polimorfismo\Practica OPP polimorfismo\bin\Debug\net8.0\Practica OPP polimorfismo.dll
+C:\Users\liria\source\repos\Practica OPP polimorfismo\Practica OPP polimorfismo\bin\Debug\net8.0\Practica OPP polimorfismo.pdb
+C:\Users\liria\source\repos\Practica OPP polimorfismo\Practica OPP polimorfismo\obj\Debug\net8.0\Practica OPP polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liria\source\repos\Practica OPP polimorfismo\Practica OPP polimorfismo\obj\Debug\net8.0\Practica OPP polimorfismo.AssemblyInfoInputs.cache
+C:\Users\liria\source\repos\Practica OPP polimorfismo\Practica OPP polimorfismo\obj\Debug\net8.0\Practica OPP polimorfismo.AssemblyInfo.cs
+C:\Users\liria\source\repos\Practica OPP polimorfismo\Practica OPP polimorfismo\obj\Debug\net8.0\Practica OPP polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\liria\source\repos\Practica OPP polimorfismo\Practica OPP polimorfismo\obj\Debug\net8.0\Practica OPP polimorfismo.dll
+C:\Users\liria\source\repos\Practica OPP polimorfismo\Practica OPP polimorfismo\obj\Debug\net8.0\refint\Practica OPP polimorfismo.dll
+C:\Users\liria\source\repos\Practica OPP polimorfismo\Practica OPP polimorfismo\obj\Debug\net8.0\Practica OPP polimorfismo.pdb
+C:\Users\liria\source\repos\Practica OPP polimorfismo\Practica OPP polimorfismo\obj\Debug\net8.0\Practica OPP polimorfismo.genruntimeconfig.cache
+C:\Users\liria\source\repos\Practica OPP polimorfismo\Practica OPP polimorfismo\obj\Debug\net8.0\ref\Practica OPP polimorfismo.dll
+C:\Users\liria\OneDrive\Escritorio\Programacion II\Practica OPP polimorfismo\Practica OPP polimorfismo\bin\Debug\net8.0\Practica OPP polimorfismo.exe
+C:\Users\liria\OneDrive\Escritorio\Programacion II\Practica OPP polimorfismo\Practica OPP polimorfismo\bin\Debug\net8.0\Practica OPP polimorfismo.deps.json
+C:\Users\liria\OneDrive\Escritorio\Programacion II\Practica OPP polimorfismo\Practica OPP polimorfismo\bin\Debug\net8.0\Practica OPP polimorfismo.runtimeconfig.json
+C:\Users\liria\OneDrive\Escritorio\Programacion II\Practica OPP polimorfismo\Practica OPP polimorfismo\bin\Debug\net8.0\Practica OPP polimorfismo.dll
+C:\Users\liria\OneDrive\Escritorio\Programacion II\Practica OPP polimorfismo\Practica OPP polimorfismo\bin\Debug\net8.0\Practica OPP polimorfismo.pdb
+C:\Users\liria\OneDrive\Escritorio\Programacion II\Practica OPP polimorfismo\Practica OPP polimorfismo\obj\Debug\net8.0\Practica OPP polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liria\OneDrive\Escritorio\Programacion II\Practica OPP polimorfismo\Practica OPP polimorfismo\obj\Debug\net8.0\Practica OPP polimorfismo.AssemblyInfoInputs.cache
+C:\Users\liria\OneDrive\Escritorio\Programacion II\Practica OPP polimorfismo\Practica OPP polimorfismo\obj\Debug\net8.0\Practica OPP polimorfismo.AssemblyInfo.cs
+C:\Users\liria\OneDrive\Escritorio\Programacion II\Practica OPP polimorfismo\Practica OPP polimorfismo\obj\Debug\net8.0\Practica OPP polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\liria\OneDrive\Escritorio\Programacion II\Practica OPP polimorfismo\Practica OPP polimorfismo\obj\Debug\net8.0\Practica OPP polimorfismo.sourcelink.json
+C:\Users\liria\OneDrive\Escritorio\Programacion II\Practica OPP polimorfismo\Practica OPP polimorfismo\obj\Debug\net8.0\Practica OPP polimorfismo.dll
+C:\Users\liria\OneDrive\Escritorio\Programacion II\Practica OPP polimorfismo\Practica OPP polimorfismo\obj\Debug\net8.0\refint\Practica OPP polimorfismo.dll
+C:\Users\liria\OneDrive\Escritorio\Programacion II\Practica OPP polimorfismo\Practica OPP polimorfismo\obj\Debug\net8.0\Practica OPP polimorfismo.pdb
+C:\Users\liria\OneDrive\Escritorio\Programacion II\Practica OPP polimorfismo\Practica OPP polimorfismo\obj\Debug\net8.0\Practica OPP polimorfismo.genruntimeconfig.cache
+C:\Users\liria\OneDrive\Escritorio\Programacion II\Practica OPP polimorfismo\Practica OPP polimorfismo\obj\Debug\net8.0\ref\Practica OPP polimorfismo.dll
